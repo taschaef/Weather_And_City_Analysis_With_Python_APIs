@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+./CONFIG.py
 # Adding config.py file 
 ./../DU_Course_Assignments/CONFIG.py
