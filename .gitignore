@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Adding config.py file 
-./../DU_Python_Practice_Modules/API's/Open_Weather/configOWM.py
+./../DU_Course_Assignments/CONFIG.py
