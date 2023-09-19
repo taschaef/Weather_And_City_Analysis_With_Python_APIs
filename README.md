@@ -40,6 +40,15 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
   - Latitude vs. Humidity
   - Latitude vs. Cloudiness
   - Latitude vs. Wind Speed
+ 
+![image](https://github.com/taschaef/Weather_And_City_Analysis_With_Python_APIs/assets/124079708/85e204fa-4f98-4d0f-8332-e15b9cd32759)
+
+![image](https://github.com/taschaef/Weather_And_City_Analysis_With_Python_APIs/assets/124079708/d8ce052a-35eb-44cc-b917-52708594863f)
+
+![image](https://github.com/taschaef/Weather_And_City_Analysis_With_Python_APIs/assets/124079708/8847bd5e-70f4-4d5d-a056-b462e455890a)
+
+![image](https://github.com/taschaef/Weather_And_City_Analysis_With_Python_APIs/assets/124079708/faced631-bfb8-4ba8-96dc-f1f4d0d0fefb)
+
 
 ## Requirement 2: Compute Linear Regression for Each Relationship
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
