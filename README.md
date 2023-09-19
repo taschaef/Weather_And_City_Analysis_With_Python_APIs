@@ -1,5 +1,9 @@
 # Weather and City Analysis with Python APIs
 
+## How to Use 
+In the file named WeatherPy there are two Jupyter Notebook files: WeatherPy and VacationPy. WeatherPy contains code to visualize the weather of over 500 cities of varying distances from the equator. I created a series of linear regressions to demonstrate how different aspects of weather change as one moves closer to the equator. All charts of the linear regression are contained in the output_data folder. VacationPy contains code to narrow down a list of cities based on types of weather. I chose to narrow my cities down to places that are around 70 degrees F, with 50% cloud cover, and wind speeds less than 3 mph. Then I used GeoApify API to generate a list of hotels in the cities that met my criteria. 
+
+
 ## Background
 Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
 
